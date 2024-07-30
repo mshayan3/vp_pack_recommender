@@ -46,6 +46,7 @@ main(): Main function to run the application.
 
 **Example**
 
-![image](https://github.com/user-attachments/assets/9dd0ae41-4908-4400-afa3-6a9dd11b53e1)
+![image](https://github.com/user-attachments/assets/98f88fc4-2ff8-4e5c-b2f2-d35f58c1bdec)
+
 
 
